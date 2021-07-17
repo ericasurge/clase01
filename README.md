@@ -1,2 +1,3 @@
 # clase01
-nuevo
+primeros pasos en Git
+hola mundo
